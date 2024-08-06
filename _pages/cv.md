@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Robotics, Cardiff University, 2025 (expected)
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
-* B.S. in Automation, Huazhong Agricultural University, 2017
+* BEng in Automation, Huazhong Agricultural University, 2017
 
 <!-- Work experience
 ======
