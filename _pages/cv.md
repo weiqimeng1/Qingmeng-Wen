@@ -37,15 +37,8 @@ redirect_from:
   * Altium Desgner & Proteus (PCB design/simulation)
   * Auto CAD (Mechanical drafting)
   * MATLAB simulink (Control simulation)
-* Programming
-  * MATLAB
-  * C/C++
-  * Python
-  * Latex
-  * PLC (Siemens)
-* Language
-  * Chinese
-  * English
+* Programming: MATLAB, C/C++, Python, PLC
+* Language: Chinese, English
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
