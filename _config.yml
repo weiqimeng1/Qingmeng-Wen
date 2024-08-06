@@ -12,7 +12,7 @@ title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Qingmeng Wen"
 description              : &description "PhD Candidate at Cardiff University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://weiqimeng1.github.io/Qingmeng-Wen/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
