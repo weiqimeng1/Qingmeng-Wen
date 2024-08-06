@@ -33,7 +33,7 @@ redirect_from:
   
 ## Skills
 * Software
-  * ROS (Robotic Operating system)
+  * ROS (Robot Operating system)
   * Altium Desgner & Proteus (PCB design/simulation)
   * Auto CAD (Mechanical drafting)
   * MATLAB simulink (Control simulation)
