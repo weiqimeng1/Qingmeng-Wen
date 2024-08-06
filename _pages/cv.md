@@ -1,5 +1,5 @@
 ---
-<!--layout: archive-->
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Ph.D in Robotics, Cardiff University, 2025 (expected)
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 * BEng in Automation, Huazhong Agricultural University, 2017
@@ -32,8 +31,7 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
-Skills
-======
+## Skills
 * Software
   * ROS (Robotic Operating system)
   * Altium Desgner & Proteus (PCB design/simulation)
@@ -49,8 +47,7 @@ Skills
   * Chinese
   * English
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
