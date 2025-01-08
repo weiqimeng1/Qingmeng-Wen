@@ -1,9 +1,9 @@
 ---
 title: "What Criteria Define an Ideal Skeletonisation Reference in Object Point Clouds?"
 collection: publications
-permalink: /publication/2024-4-1-paper-TAROS2024-number-3
+permalink: /publication/2024-12-30-paper-TAROS2024-number-3
 excerpt: 'This paper is about point cloud skeletonisation algorithm evaluation research'
-date: 2024-4-1
+date: 2024-12-30
 venue: 'Towards Autonomous Robotic Systems (TAROS2024)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-72059-8_35'
